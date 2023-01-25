@@ -9,11 +9,13 @@ An edited version of [Material Discord](https://github.com/CapnKitten/Material-D
 
 <details>
   <summary>Show Screenshots</summary>
+  
   Most stuff is blocked out due to privacy.
   
   ![screenshot-1](https://laptopcat.github.io/material-ocean-stuff/screenshots/pc-1.png) 
   ![screenshot-2](https://laptopcat.github.io/material-ocean-stuff/screenshots/pc-2.png)
   ![screenshot-3](https://laptopcat.github.io/material-ocean-stuff/screenshots/pc-3.png)
+  
 </details>
 
 ### Installing
@@ -28,12 +30,14 @@ Poorly-made fork of [Material Aliucord](https://github.com/A-rhyna-H/Material-Al
 
 <details>
   <summary>Show Screenshots</summary>
+  
   Most stuff is blocked out due to privacy.
   
   ![mscreenshot-1](https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-1.png) 
   ![mscreenshot-2](https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-2.png)
   ![mscreenshot-3](https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-3.png)
   ![mscreenshot-4](https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-4.png)
+  
 </details>
 
 ### Installing
