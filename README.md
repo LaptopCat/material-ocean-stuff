@@ -4,6 +4,7 @@ Fanmade [Material Ocean](https://github.com/material-ocean/Material-Ocean) theme
 # Discord themes
 ## PC
 An edited version of [Material Discord](https://github.com/CapnKitten/Material-Discord) with the [Material You](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Material-Discord/css/addons/material-you) addon included and setup to have the Material Ocean accent color.
+
 <details>
   <summary>Show Screenshots</summary>
   
@@ -11,6 +12,7 @@ An edited version of [Material Discord](https://github.com/CapnKitten/Material-D
   ![screenshot-2](https://laptopcat.github.io/material-ocean-stuff/screenshots/pc-2.png)
   ![screenshot-3](https://laptopcat.github.io/material-ocean-stuff/screenshots/pc-3.png)
 </details>
+
 ### Installing
 First, download the theme file [here](https://laptopcat.github.io/material-ocean-stuff/themes/discord/Material-Discord.theme.css)
 To use it, you will need a custom discord client like [BetterDiscord](https://betterdiscord.app), but any other custom client for PC discord with theme support should work just fine (i didn't test it but you can)
