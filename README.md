@@ -27,6 +27,8 @@ To use it, you will need a custom discord client like [BetterDiscord](https://be
 
 After installing your custom client of choice, find the themes folder of your custom client (for BetterDiscord, go to settings -> themes and open themes folder) and place the downloaded file there.
 
+After that, enable it in the theme settings.
+
 ## Android
 Poorly-made fork of [Material Aliucord](https://github.com/A-rhyna-H/Material-Aliucord) to make it have Material Ocean colors. (React Native not supported)
 
