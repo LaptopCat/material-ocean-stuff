@@ -12,11 +12,11 @@ An edited version of [Material Discord](https://github.com/CapnKitten/Material-D
   
   Most stuff is blocked out due to privacy.
   
-  ![screenshot-1](https://laptopcat.github.io/material-ocean-stuff/screenshots/pc-1.png)
+  <img src="https://laptopcat.github.io/material-ocean-stuff/screenshots/pc-1.png"></img>
   
-  ![screenshot-2](https://laptopcat.github.io/material-ocean-stuff/screenshots/pc-2.png)
+  <img src="https://laptopcat.github.io/material-ocean-stuff/screenshots/pc-2.png"></img>
   
-  ![screenshot-3](https://laptopcat.github.io/material-ocean-stuff/screenshots/pc-3.png)
+  <img src="https://laptopcat.github.io/material-ocean-stuff/screenshots/pc-3.png"></img>
   
 </details>
 
@@ -35,13 +35,13 @@ Poorly-made fork of [Material Aliucord](https://github.com/A-rhyna-H/Material-Al
   
   Most stuff is blocked out due to privacy.
   
-  ![mscreenshot-1](https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-1.png) 
+  <img src="https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-1.png"></img>
   
-  ![mscreenshot-2](https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-2.png)
+  <img src="https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-2.png"></img>
   
-  ![mscreenshot-3](https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-3.png)
+  <img src="https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-3.png"></img>
   
-  ![mscreenshot-4](https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-4.png)
+  <img src="https://laptopcat.github.io/material-ocean-stuff/screenshots/mobile-4.png"></img>
   
 </details>
 
